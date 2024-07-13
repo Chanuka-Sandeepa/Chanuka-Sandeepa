@@ -1,5 +1,5 @@
 <h1 align="center" frontstyle>Hi 👋, I'm Chanuka Sandeepa</h1>
-<h3 align="center" style="font-family: 'Times New Roman', Times, serif;">I’m an enthusiastic undergraduate student at SLIIT University, currently in my second year. I am deeply passionate about the IT field and enjoy working on projects that challenge my skills and expand my knowledge. I’m committed to continuous learning and growth in software development and web technologies.</h3>
+<h3 align="center" style="font-family: "Merienda, cursive;">I’m an enthusiastic undergraduate student at SLIIT University, currently in my second year. I am deeply passionate about the IT field and enjoy working on projects that challenge my skills and expand my knowledge. I’m committed to continuous learning and growth in software development and web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuka-sandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka-sandeepa" /> </p>
 
