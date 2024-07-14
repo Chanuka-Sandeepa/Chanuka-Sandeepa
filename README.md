@@ -10,6 +10,17 @@
   <img src="https://komarev.com/ghpvc/?username=chanuka-sandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka-sandeepa" />
 </p>
 
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+
+###About Me
+
 - 🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
 - 📫 How to reach me: **Sandeepachanuka88@gmail.com**
 - ⚡ Fun fact: **I once backpacked through 10 countries in 3 months!**
