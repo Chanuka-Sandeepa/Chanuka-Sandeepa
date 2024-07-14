@@ -19,7 +19,10 @@
 
 ------
 
-<h2 align="center">About Me</h2>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="Center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 - 🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
 - 📫 How to reach me: **Sandeepachanuka88@gmail.com**
