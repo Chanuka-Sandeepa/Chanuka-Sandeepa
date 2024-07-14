@@ -19,7 +19,7 @@
 
 ------
 
-###About Me
+<h2 align="center">About Me</h2>
 
 - 🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
 - 📫 How to reach me: **Sandeepachanuka88@gmail.com**
@@ -27,7 +27,7 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<h2 align="center">My Statistics:</h2>
 <p align="center">
 <table align="center">
 <tr border="none">
