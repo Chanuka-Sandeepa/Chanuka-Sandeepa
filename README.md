@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chanuka Sandeepa</h1>
+### Hi 👋, I'm Chanuka Sandeepa
 
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+an+Undergraduate+student;"></a>
