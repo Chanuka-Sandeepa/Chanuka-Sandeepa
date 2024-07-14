@@ -2,12 +2,6 @@
 
 ---
 
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
-
 <h3 align="center" style="font-family: 'Merienda', cursive;">I’m an enthusiastic undergraduate student at SLIIT University, currently in my second year. I am deeply passionate about the IT field and enjoy working on projects that challenge my skills and expand my knowledge. I’m committed to continuous learning and growth in software development and web technologies.</h3>
 
 <p align="center">
