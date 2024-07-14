@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanuka Sandeepa</h1>
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Undergraduate+student;"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+an+Undergraduate+student;"></a>
 </p>
 
 <h3 align="center" style="font-family: 'Merienda', cursive;">I’m an enthusiastic undergraduate student at SLIIT University, currently in my second year. I am deeply passionate about the IT field and enjoy working on projects that challenge my skills and expand my knowledge. I’m committed to continuous learning and growth in software development and web technologies.</h3>
