@@ -71,7 +71,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/chanuka-sandeepa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chanuka Sandeepa" height="50" width="50" /></a>    <a href="https://fb.com/chanuka-sandeepa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chanuka Sandeepa" height="50" width="50" /></a>    <a href="[https://instagram.com/](https://www.instagram.com/chanu_)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanu__boy_" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/chanuka-sandeepa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chanuka Sandeepa" height="50" width="50" /></a>    <a href="https://fb.com/chanuka-sandeepa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chanuka Sandeepa" height="50" width="50" /></a>    <a href="https://www.instagram.com/chanu___boy_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanu__boy_" height="50" width="50" /></a>
 </p>
 
 ---
