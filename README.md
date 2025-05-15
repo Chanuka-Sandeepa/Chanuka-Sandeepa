@@ -26,7 +26,7 @@
 <picture> <img align="Center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
-- 🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
+- 🌱 I’m currently learning **Next.js, TypeScripts**
 - 📫 How to reach me: **Sandeepachanuka88@gmail.com**
 - ⚡ Fun fact: **I once backpacked through 10 countries in 3 months!**
 
